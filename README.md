@@ -89,7 +89,7 @@ data or accounts involved:
 
 | Task | Target | What it proves |
 |---|---|---|
-| 🔎 Web search & extraction | DuckDuckGo | Navigate, type a query, read results, report an answer |
+| 🔎 Web search & extraction | Wikipedia | Navigate, type a query, read results, report an answer |
 | 📝 Form filling | [demoqa.com/automation-practice-form](https://demoqa.com/automation-practice-form) | Fill multiple fields, dropdowns, submit |
 | 🏨 Dummy appointment/booking | [automationintesting.online](https://automationintesting.online/) | Multi-step flow: pick a room, fill guest details, confirm a reservation |
 
