@@ -95,17 +95,6 @@ Click a preset button in the left panel to auto-fill the start URL + task,
 then just add your API key and run. Feel free to swap in your own URL/task —
 the agent isn't hardcoded to these sites.
 
-## Recording the demo
-
-1. Start the server, open the dashboard, arrange your screen recorder.
-2. Click a preset (or write your own task), hit **Run agent**.
-3. Record the live screenshot updating in the center panel and the
-   color-coded waypoint log filling in on the right as the agent thinks and
-   acts.
-4. Let it reach the green "Task completed" banner at the bottom, then stop
-   the recording.
-5. Repeat for the other 1–2 tasks in the same or separate clips.
-
 ## Design notes for the write-up
 
 - **Reliability**: grounding every action in a freshly-computed, numbered
