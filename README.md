@@ -5,6 +5,8 @@ navigate, read the page, click, type, scroll, and extract information — loopin
 until the task is done. A light, colorful live dashboard shows the browser view
 and a step-by-step "waypoint log" of every decision the agent makes, in real time.
 
+Demo Video URL : https://drive.google.com/file/d/1r8_D5ub0AbuFEMHSXVFY2Iqr8X3EQ2GV/view?usp=sharing
+
 ## How it works
 
 ```
